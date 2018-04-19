@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.testHello{
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 0px;
+    text-decoration: underline;
+}
+p{
+    text-align: justify;
+}
+.listTerms{
+    margin-top: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+}

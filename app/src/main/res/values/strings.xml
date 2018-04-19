@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testJava</string>
+    <string name="title_activity_locations">Locations</string>
+    <string name="title_activity_profiles">profiles</string>
+</resources>
