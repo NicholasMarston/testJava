@@ -43,3 +43,5 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 }
+
+// This is a test comment
